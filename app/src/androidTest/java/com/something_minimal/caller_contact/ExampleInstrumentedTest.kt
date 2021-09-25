@@ -1,4 +1,4 @@
-package com.shadowmax31.callercontact
+package com.something_minimal.caller_contact
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.shadowmax31.callercontact", appContext.packageName)
+        assertEquals("com.something_minimal.caller_contact", appContext.packageName)
     }
 }

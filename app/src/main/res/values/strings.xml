@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">Caller - Contacts</string>
-    <string name="phone_tab">Phone</string>
-    <string name="contacts_tab">Contacts</string>
+    <string name="app_name">caller-contact</string>
 </resources>

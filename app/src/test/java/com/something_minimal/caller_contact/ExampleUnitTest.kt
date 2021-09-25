@@ -1,4 +1,4 @@
-package com.shadowmax31.callercontact
+package com.something_minimal.caller_contact
 
 import org.junit.Test
 
